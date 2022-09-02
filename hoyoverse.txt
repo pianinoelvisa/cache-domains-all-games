@@ -1,2 +1,1 @@
-sg-public-api-static.hoyoverse.com
 autopatchhk.yuanshen.com
