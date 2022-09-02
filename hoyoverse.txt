@@ -1,2 +1,9 @@
 autopatchhk.yuanshen.com
 autopatchhk.yuanshen.com.wsdvs.com
+hk4e-launcher.hoyoverse.com
+hk4e-launcher-static.hoyoverse.com
+log-upload-os.hoyoverse.com
+sg-public-api-static.hoyoverse.com
+*.cloudfront.net
+webstatic.mihoyo.com
+webstatic.hoyoverse.com
