@@ -1,14 +1,14 @@
 {
 	"cache_domains": [
 		{
-			"name": "arenanet",
-			"description": "CDN for guild wars, HoT",
-			"domain_files": ["arenanet.txt"]
-		},
-		{
 			"name": "hoyoverse",
 			"description": "CDN for genshin impact/hoyoverse",
 			"domain_files": ["hoyoverse.txt"]
+		},
+		{
+			"name": "arenanet",
+			"description": "CDN for guild wars, HoT",
+			"domain_files": ["arenanet.txt"]
 		},
 		{
 			"name": "blizzard",
