@@ -12,3 +12,4 @@ cngfdispatch.yuanshen.com
 api-sdk.mihoyo.com
 minor-api.mihoyo.com
 api-takumi.mihoyo.com
+download-sea.mihoyo.com
