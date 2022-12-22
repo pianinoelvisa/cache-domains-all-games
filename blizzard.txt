@@ -9,3 +9,5 @@ nydus.battle.net
 edge.blizzard.top.comcast.net
 cdn.blizzard.com
 *.cdn.blizzard.com
+llnw.blizzard.com
+edgecast.blizzard.com
