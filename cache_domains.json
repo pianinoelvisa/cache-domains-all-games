@@ -26,6 +26,11 @@
 			"domain_files": ["cityofheroes.txt"]
 		},
 		{
+			"name": "gaijin",
+			"description": "CDN for Warthunder",
+			"domain_files": ["gaijin.txt"]
+		},
+		{
 			"name": "daybreak",
 			"description": "Daybreak games CDN",
 			"domain_files": ["daybreak.txt"]
