@@ -78,6 +78,11 @@
 			"domain_files": ["pathofexile.txt"]
 		},
 		{
+			"name": "pubg",
+			"description": "CDN for PUBG",
+			"domain_files": ["pubg.txt"]
+		},
+		{
 			"name": "renegadex",
 			"description": "CDN for Renegade X",
 			"domain_files": ["renegadex.txt"]
